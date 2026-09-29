@@ -1,4 +1,4 @@
-# cauamcz06
+# cauamcz06-cloud
 perfil personalizado
 <!-- Banner Personalizado com gradiente suave entre roxo e amarelo -->
 <div align="center">
@@ -100,4 +100,3 @@ Busco criar aplicações eficientes, escaláveis e de alta performance, mantendo
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD700,8A2BE2&height=100&section=footer" width="100%" alt="Rodapé" />
 </div>
-git commit -m "atualização de perfil"
