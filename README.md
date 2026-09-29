@@ -1,5 +1,4 @@
 # cauamcz06-cloud
-perfil personalizado
 <!-- Banner Personalizado com gradiente suave entre roxo e amarelo -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,FFD700&height=250&section=header&text=Cauã%20Melo&fontSize=70&fontAlignY=35&desc=Back%20End%20Developer&descAlignY=55&descSize=25&animation=fadeIn" width="100%" alt="Banner Cauã Melo" />
